@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <app_feature name="athena.ams.max.cached.processes" args="String:6|32-4|16-3|8"/>
+    <app_feature name="athena.kill.memoryguard.custom.clean.threshold" args="String:3-1000,1100|4-1300,1400|6-2000,2100|8-2500,2600"/>
+</extend_features>

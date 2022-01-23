@@ -1,0 +1,71 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=RP1A.200720.011
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX2189
+ro.product.name=RMX2189
+ro.product.device=RMX2189
+ro.product.first_api_level=29
+ro.build.version.incremental=1641984760095
+ro.build.version.base_os=realme/RMX2189/RMX2189:11/RP1A.200720.011/1635167273000:user/release-keys
+ro.build.version.release=11
+ro.build.fingerprint=realme/RMX2189/RMX2189:11/RP1A.200720.011/1641984760095:user/release-keys
+ro.odm.build.fingerprint=realme/RMX2189/RMX2189:11/RP1A.200720.011/1641984760095:user/release-keys
+ro.odm.build.version.incremental=1641984760095
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX2189
+ro.product.odm.device=RMX2189
+ro.product.odm.name=RMX2189
+ro.odm.build.date=Wed Jan 12 18:52:40 CST 2022
+ro.odm.build.date.utc=1641984760
+ro.system.build.fingerprint=realme/RMX2189/RMX2189:11/RP1A.200720.011/1641984760095:user/release-keys
+ro.system.build.version.incremental=1641984760095
+ro.product.system.brand=realme
+ro.product.system.manufacturer=realme
+ro.product.system.model=RMX2189
+ro.product.system.device=RMX2189
+ro.product.system.name=RMX2189
+ro.system.build.date=Wed Jan 12 18:52:40 CST 2022
+ro.system.build.date.utc=1641984760
+ro.bootimage.build.fingerprint=realme/RMX2189/RMX2189:11/RP1A.200720.011/1641984760095:user/release-keys
+ro.bootimage.build.version.incremental=1641984760095
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX2189
+ro.product.bootimage.device=RMX2189
+ro.product.bootimage.name=RMX2189
+ro.bootimage.build.date=Wed Jan 12 18:52:40 CST 2022
+ro.bootimage.build.date.utc=1641984760
+ro.vendor.build.fingerprint=realme/RMX2189/RMX2189:11/RP1A.200720.011/1641984760095:user/release-keys
+ro.vendor.build.version.incremental=1641984760095
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX2189
+ro.product.vendor.device=RMX2189
+ro.product.vendor.name=RMX2189
+ro.vendor.build.date=Wed Jan 12 18:52:40 CST 2022
+ro.vendor.build.date.utc=1641984760
+ro.system_ext.build.fingerprint=realme/RMX2189/RMX2189:11/RP1A.200720.011/1641984760095:user/release-keys
+ro.system_ext.build.version.incremental=1641984760095
+ro.product.system_ext.brand=realme
+ro.product.system_ext.manufacturer=realme
+ro.product.system_ext.model=RMX2189
+ro.product.system_ext.device=RMX2189
+ro.product.system_ext.name=RMX2189
+ro.system_ext.build.date=Wed Jan 12 18:52:40 CST 2022
+ro.system_ext.build.date.utc=1641984760
+ro.product.build.fingerprint=realme/RMX2189/RMX2189:11/RP1A.200720.011/1641984760095:user/release-keys
+ro.product.build.version.incremental=1641984760095
+ro.product.product.brand=realme
+ro.product.product.manufacturer=realme
+ro.product.product.model=RMX2189
+ro.product.product.device=RMX2189
+ro.product.product.name=RMX2189
+ro.product.build.date=Wed Jan 12 18:52:40 CST 2022
+ro.product.build.date.utc=1641984760
+
+# OPPO
